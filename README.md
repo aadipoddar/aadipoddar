@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aadipoddar
+- 👀 I’m interested in Software Development with C# and Java and Game Engines in C++
+- 🌱 I’m currently learning Java C# C++ , Enterprise Software Development with C# and Java
+- 💞️ I’m looking to collaborate on Game Engines, Games, Enterprise Softwares
+- 📫 You can reach me ... https://www.instagram.com/aadi__poddar/
