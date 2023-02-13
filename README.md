@@ -76,7 +76,7 @@
 </a>
 <br/>
 <a href = "https://github.com/aadipoddar/Minsk">
-  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=WhatsAppAndroidStudio&theme=radical"/>
+  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=Minsk&theme=radical"/>
 </a>
 
 ***
