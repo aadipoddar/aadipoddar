@@ -67,16 +67,16 @@
 
 ### ✨ <ins>Favourite Projects:</ins>
 <br/>
-<a href = "https://github.com/aadipoddar/Hazel">
-  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=Hazel&theme=radical"/>
+<a href = "https://github.com/aadipoddar/PubBill">
+  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PubBill&theme=radical"/>
 </a>
 <br/>
-<a href = "https://github.com/aadipoddar/Primal-Engine">
-  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=Primal-Engine&theme=radical"/>
+<a href = "https://github.com/aadipoddar/PubEntry">
+  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PubEntry&theme=radical"/>
 </a>
 <br/>
-<a href = "https://github.com/aadipoddar/Minsk">
-  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=Minsk&theme=radical"/>
+<a href = "https://github.com/aadipoddar/PilatoWorks">
+  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PilatoWorks&theme=radical"/>
 </a>
 
 ***
