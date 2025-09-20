@@ -67,16 +67,16 @@
 
 ### ✨ <ins>Favourite Projects:</ins>
 <br/>
-<a href = "https://github.com/aadipoddar/PubBill">
-  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PubBill&theme=radical"/>
+<a href = "https://github.com/aadipoddar/PrimeOrders">
+  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PrimeOrders&theme=radical"/>
 </a>
 <br/>
 <a href = "https://github.com/aadipoddar/PubEntry">
   <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PubEntry&theme=radical"/>
 </a>
 <br/>
-<a href = "https://github.com/aadipoddar/PilatoWorks">
-  <img width = "500em" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PilatoWorks&theme=radical"/>
+<a href = "https://github.com/aadipoddar/PubBill">
+  <img width = "500px" height = "200px" src = "https://cybernethacker14-github-readme-stats.vercel.app/api/pin/?username=aadipoddar&repo=PubBill&theme=radical"/>
 </a>
 
 ***
