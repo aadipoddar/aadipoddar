@@ -23,6 +23,9 @@
 <a href="https://www.facebook.com/profile.php?id=100010877340723">
   <img align="center" alt="AadiPoddar|Facebook" width="30px" src="images/facebook.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aadisoft.vercel.app">
+  <img align="center" alt="AadiPoddar|Portfolio" width="30px" src="images/portfolio.png"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
 ***
